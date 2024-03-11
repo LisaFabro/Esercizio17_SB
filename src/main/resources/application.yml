@@ -1,0 +1,7 @@
+server:
+  port: 5000
+
+---
+environment: production
+server:
+  port: 7070
